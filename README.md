@@ -1,11 +1,11 @@
 # blub
 - git status
 - git add .
-- git commit -m "Uprava README"
+- git commit -m "Nazev commitu"
 - git push
 
 - git pull
-
+ 
 # doma
 
 - git clone [odkaz na repo]
